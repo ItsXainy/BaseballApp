@@ -20,6 +20,6 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-var count = 12
+var count = 11
 }
 
