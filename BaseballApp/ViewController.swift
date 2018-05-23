@@ -21,7 +21,7 @@ class ViewController: UIViewController {
        
     }
 
-
+var count = 15
 }
 
 }
