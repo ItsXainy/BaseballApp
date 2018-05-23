@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    var basball: [String] = []
+    var baseball: [String] = []
     
     override func viewDidLoad() {
         super.viewDidLoad()
